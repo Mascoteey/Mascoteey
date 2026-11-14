@@ -1,7 +1,7 @@
 <!-- Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Emerson+pvtx;Developer+%26+Reverse+Engineer;Perfect+World+%7C+Angelica+Engine;Wulin+Web+Client+%26+Servers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Emerson+pvtx;Developer;Perfect+World+%7C+Angelica+Engine;Wulin+Web+Client+%26+Servers" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -25,7 +25,7 @@ emerson = {
     "nome":        "Emerson pvtx",
     "alias":       "Mascoteey",
     "local":       "🇧🇷 Brasil",
-    "foco":        ["Reverse Engineering", "Game Servers", "Web Clients"],
+    "foco":        ["Game Servers", "Web Clients"],
     "engine":      "Angelica Engine 2",
     "linguagens":  ["C++", "C#", "TypeScript", "JavaScript", "Python", "PHP", "Shell"],
     "projetos":    ["Wulin RB_20151222", "Gallery Now", "Cooler Monitor"],
